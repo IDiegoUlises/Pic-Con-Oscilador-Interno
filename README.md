@@ -1,6 +1,7 @@
 # Pic 16F887 Con Oscilador Interno
 
 <img src="https://github.com/IDiegoUlises/Pic-Con-Oscilador-Interno/blob/main/Images/16f887-Pic.png"  />
+
 * Vdd: Positivo del microcontrolador
 * Vss: Negativo del microcontrolador
 
