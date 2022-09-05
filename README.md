@@ -8,7 +8,7 @@
 ### Codigo
 ```c
 #include <16f887.h> //Nombre del microcontrolador
-#fuses LP,nowdt  //para osciladores de de 32KHz
+#fuses LP,nowdt  //para osciladores de 32KHz
 #use delay(internal=32KHz) //Internal le dice que utilizara el oscilador interno
 
 void main()
