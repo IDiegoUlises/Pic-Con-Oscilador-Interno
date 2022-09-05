@@ -1,1 +1,1 @@
-# Pic 16F887 Con Osiclador Interno
+# Pic 16F887 Con Oscilador Interno
